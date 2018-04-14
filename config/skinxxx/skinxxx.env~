@@ -2,5 +2,5 @@ CODENAME=skinxxx
 MNODE_DAEMON=${MNODE_DAEMON:-/usr/local/bin/skinxxxd}
 MNODE_INBOUND_PORT=${MNODE_INBOUND_PORT:-7546}
 GIT_URL=https://github.com/Skinxxx/SkinXXXCore.git
-SCVERSION="tags/v1.0.1.3"
+SCVERSION="tags/v1.0.1.2"
 NETWORK_BASE_TAG="2039"
